@@ -1,0 +1,5 @@
+cd plots_from_data
+python3 parse_output/parse_output.py 
+python3 parse_output_mean/parse_output_mean.py
+python3 parse_output_mean_parallel/parse_output_mean_parallel.py
+python3 parse_output_parallel/parse_output_parallel.py 
